@@ -1,0 +1,30 @@
+"Start Port";"Start Week";"Destination";"Duration";"Weight";"Cargo";"Cranes";"Ice Class";"Bi Fuel";"Rate";"Currency";"Port Days";"SSHINC";"Demurage";"Penalty";"Broker";"Commission";"Signing Fee";"Minimal Liking";"Bid"
+"Gothenburg";11;"Mumbai";8;71591;"Bauxite";FALSE;TRUE;FALSE;10.74;"USD";7;FALSE;20015;8006;"Worldwide Freight";0.05;0.14;21;0
+"Gothenburg";9;"Rotterdam";1;7515;"Agribulk";FALSE;TRUE;FALSE;40.97;"USD";5;FALSE;11068;4427;"Worldwide Freight";0.02;0.18;12;0
+"Gdansk";9;"Marseille";4;99431;"Steam Coal";FALSE;TRUE;FALSE;7.9;"USD";11;FALSE;19025;7610;"Allseas Cargo";0.02;0.31;0;0
+"Tallinn";13;"Odessa";8;44453;"Minor Ores";TRUE;TRUE;FALSE;15.41;"USD";34;TRUE;19215;7686;"Worldwide Freight";0.03;0.42;6;0
+"Odessa";10;"Hamburg";12;95175;"Alumina";TRUE;TRUE;FALSE;10.58;"USD";65;TRUE;19025;7610;"Brauner International";0.02;0.24;4;0
+"Shanghai";10;"Melbourne";6;72583;"Fertilizers";FALSE;FALSE;FALSE;9.5;"USD";16;FALSE;20015;8006;"Blue Mountain Logistics";0.03;0.21;9;0
+"Shanghai";10;"Chiba";1;36387;"Woodproducts";FALSE;FALSE;FALSE;13.7;"USD";5;TRUE;19215;7686;"Intercargo Services";0.03;0.11;20;0
+"Shanghai";9;"New York";11;100825;"Woodproducts";FALSE;FALSE;FALSE;12.41;"USD";7;TRUE;19025;7610;"ABC Logisitcs";0.04;0;1;0
+"Tubarao";9;"Rotterdam";4;36124;"Coal";FALSE;FALSE;FALSE;15.23;"USD";7;FALSE;19215;7686;"Allseas Cargo";0.02;0.26;8;0
+"Chiba";10;"Marseille";10;135384;"Iron Ore";FALSE;FALSE;FALSE;13.52;"USD";9;TRUE;16950;6780;"Omega Forwarding";0.02;0.1;9;0
+"Chiba";11;"Corpus Christi";15;67851;"Manufactureds";FALSE;FALSE;FALSE;31.59;"USD";32;TRUE;24865;9946;"McCorran Freight";0.03;0.2;13;0
+"Rotterdam";9;"Dunkirk";1;6365;"Woodproducts";FALSE;FALSE;FALSE;22.11;"USD";4;TRUE;11068;4427;"Worldwide Freight";0.01;0.17;6;0
+"Rotterdam";10;"Gdansk";2;12104;"Steam Coal";FALSE;TRUE;FALSE;21.61;"USD";7;TRUE;11068;4427;"Worldwide Freight";0.01;0.15;1;0
+"Rotterdam";10;"Corpus Christi";5;31913;"Agribulk";FALSE;FALSE;FALSE;12.71;"USD";12;TRUE;19215;7686;"McCorran Freight";0.01;0.17;4;0
+"Rotterdam";9;"Wilhelmshaven";1;12278;"Manufactureds";FALSE;FALSE;FALSE;24.29;"USD";6;TRUE;14578;5831;"Worldwide Freight";0.04;0.41;8;0
+"Marseille";19;"Gothenburg";2;27889;"Steel Products";FALSE;TRUE;FALSE;11.59;"USD";6;TRUE;14578;5831;"Great Eagle Tranport Services";0.04;0.02;0;0
+"Marseille";18;"Gijon";2;11332;"Agribulk";FALSE;FALSE;FALSE;25.21;"USD";6;FALSE;11068;4427;"Great Eagle Tranport Services";0.03;0.26;5;0
+"Marseille";9;"Rotterdam";2;79869;"Alumina";FALSE;FALSE;FALSE;7.23;"USD";7;TRUE;20015;8006;"Mann Global Logistics";0.04;0.07;8;0
+"Marseille";10;"Antwerp";2;22251;"Project";FALSE;FALSE;FALSE;24.18;"USD";7;FALSE;20015;8006;"ABC Logisitcs";0.03;0.21;5;0
+"Jeddah";10;"Kolkata";4;75128;"Bauxite";FALSE;FALSE;FALSE;7.32;"USD";10;FALSE;20015;8006;"Mann Global Logistics";0.05;0.5;21;0
+"Corpus Christi";14;"Port-Gentil";6;29168;"Manufactureds";FALSE;FALSE;FALSE;21.51;"USD";14;TRUE;19215;7686;"ABC Logisitcs";0.02;0.19;25;0
+"New York";12;"Corpus Christi";3;19216;"Fertilizers";FALSE;FALSE;FALSE;12.59;"USD";9;FALSE;14578;5831;"McCorran Freight";0.02;0.19;6;0
+"New York";15;"Corpus Christi";4;76714;"Bauxite";FALSE;FALSE;FALSE;13.27;"USD";16;TRUE;20015;8006;"Mann Global Logistics";0.05;0.12;1;0
+"Newcastle";9;"Kolkata";6;94627;"Minor Ores";FALSE;FALSE;FALSE;10.31;"USD";11;TRUE;19025;7610;"Continental Maritime";0.02;0.33;21;0
+"Pasir Gudang";9;"Marseille";9;123076;"Coal";FALSE;FALSE;FALSE;13.38;"USD";13;TRUE;16950;6780;"Allseas Cargo";0.02;0.4;6;0
+"Hamburg";9;"Gothenburg";1;12530;"Grain";FALSE;TRUE;FALSE;28.51;"USD";5;TRUE;11068;4427;"ABC Logisitcs";0.02;0.46;4;17.55
+"Hamburg";9;"Portland";11;150877;"Fertilizers";FALSE;FALSE;FALSE;5.54;"USD";10;TRUE;16430;6572;"ABC Logisitcs";0.02;0.16;3;0
+"Antwerp";9;"Mina Saqr";9;59475;"Fertilizers";FALSE;FALSE;FALSE;15.14;"USD";16;TRUE;15875;6350;"ABC Logisitcs";0.05;0.39;10;0
+"Antwerp";10;"Odessa";12;107353;"Steam Coal";TRUE;TRUE;FALSE;9.26;"USD";66;TRUE;19025;7610;"Worldwide Freight";0.05;0.45;0;0

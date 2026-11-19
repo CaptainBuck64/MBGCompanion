@@ -1,0 +1,36 @@
+"Week";"Vessel";"DWT";"Length";"Width";"Draft";"Hold Floor Strength";"Hold Volume";"Company";"Current Location";"Destination";"Time Left"
+5;"Capesize 10";168404;283;45;18.17;10;185310;"Scorpio Logistics";"Sea";"Chiba";7.1
+5;"Capesize 11";168404;283;45;18.17;10;185310;"Highland Trading";"Sea";"Shanghai";40.3
+5;"Capesize 5";168404;283;45;18.17;20;111186;"Business Enterprise";"Port Of Shanghai";"Jeddah";35.1
+5;"Capesize 6";168404;283;45;18.17;10;185310;"Twilight Shipping";"Sea";"Jeddah";29.1
+5;"Capesize 7";168404;283;45;18.17;10;185310;"Red Shipping";"Port Of Rostock";"Rostock";1
+5;"Capesize 8";168404;283;45;18.17;15;148248;"Atlantis Trading";"Sea";"Dampier";28.5
+5;"Capesize 9";168404;283;45;18.17;20;111186;"Atlantis Trading";"Sea";"Dampier";15.5
+5;"Handy 29";34699;179.28;28;10.65;20;26410;"Western Trading";"Sea";"Gothenburg";1.8
+5;"Handy 35";34699;179.28;28;10.65;10;44020;"Scorpio Logistics";"Port Of Odessa";"Odessa";1
+5;"Handy 69";34699;179.28;28;10.65;20;26410;"Fine Enterprise";"Sea";"Hamburg";3.8
+5;"Handy 70";34699;179.28;28;10.65;10;44020;"Mermaid Operator";"Port Of Dampier";"Dampier";1
+5;"Handy 72";34699;179.28;28;10.65;10;44020;"De bodem shipping & Vo";"Sea";"Marseille";5.6
+5;"Handy 8";34699;179.28;28;10.65;10;44020;"Scorpio Logistics";"Port Of Hamburg";"Hamburg";2.5
+5;"Handymax 34";66758;229.75;32.21;12.6;10;77364;"Nordic Line";"Sea";"Rotterdam";31.2
+5;"Handymax 35";66758;229.75;32.21;12.6;10;77364;"Red Shipping";"Port Of Odessa";"Odessa";1
+5;"Handymax 36";66758;229.75;32.21;12.6;10;77364;"HenkCapital logistics";"Port Of Marseille";"Marseille";1
+5;"Handymax 37";66758;229.75;32.21;12.6;20;46417;"Freight Shipping";"Sea";"Marseille";15.5
+5;"Handymax 38";66758;229.75;32.21;12.6;10;77364;"HenkCapital logistics";"Port Of Corpus Christi";"Corpus Christi";1
+5;"Handymax 39";66758;229.75;32.21;12.6;10;77364;"HenkCapital logistics";"Port Of Rotterdam";"Rotterdam";1
+5;"Handymax 40";66758;229.75;32.21;12.6;10;77364;"Antwerp Operator";"Sea";"Corpus Christi";11.4
+5;"Handymax 41";66758;229.75;32.21;12.6;20;46417;"VOC";"Port Of Izmir";"Izmir";1
+5;"Handymax 43";66758;229.75;32.21;12.6;10;77364;"Van Der Wal Shipping B.V.";"Port Of Shanghai";"Shanghai";1
+5;"Handymax 48";66758;229.75;32.21;12.6;10;77364;"Freight Cargo";"Port Of Rotterdam";"Rotterdam";1
+5;"Handymax 49";66758;229.75;32.21;12.6;20;46417;"HenkCapital logistics";"Sea";"Corpus Christi";30.1
+5;"Handymax 52";66758;229.75;32.21;12.6;10;77364;"BROKE BROKERS";"Port Of Corpus Christi";"Corpus Christi";0
+5;"Handymax 53";66758;229.75;32.21;12.6;20;46417;"BROKE BROKERS";"Sea";"Chiba";6.3
+5;"Large Capesize 5";184872;290;47;17.98;20;205632;"Van Der Wal Shipping B.V.";"Sea";"Antwerp";2.5
+5;"Medium Capesize 7";140532;280.04;42.58;17.02;20;98991;"Express Logistics";"Port Of Dampier";"Mina Qaboos";22.4
+5;"Medium Capesize 8";140532;280.04;42.58;17.02;10;164979;"PietPiraat & Zn.";"Port Of Rotterdam";"Rotterdam";2.3
+5;"Medium Capesize 9";140532;280.04;42.58;17.02;10;164979;"Express Logistics";"Sea";"Rotterdam";12
+5;"Panamax 13";87890;234.96;32.21;13.89;10;105768;"Antwerp Operator";"Sea";"Shanghai";0.7
+5;"Small Capesize 7";118000;260;43;14.5;20;83405;"Atlantis Trading";"Port";"Gdansk";1
+5;"Small Capesize 8";118000;260;43;14.5;10;139006;"biba shipping bv";"Sea";"Tallinn";51.8
+5;"Small Handy 49";17777;146.74;22.81;8.96;10;21824;"Break Bulk Line";"Port Of Antwerp";"Antwerp";4.3
+5;"Small Handy 50";17777;146.74;22.81;8.96;10;21824;"PietPiraat & Zn.";"Port Of Corpus Christi";"Corpus Christi";1

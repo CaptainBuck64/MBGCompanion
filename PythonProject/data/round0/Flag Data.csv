@@ -1,0 +1,20 @@
+"Flag";"Flag of Convenience";"Port State Inspection Score";"GT Tax";"Profit Tax";"Revenue Tax"
+"Bahamas";TRUE;-1.59;0;0;0.025
+"Denmark";FALSE;-1.68;0;0.25;0
+"Germany";TRUE;-1.61;0.235;0;0
+"Greece";FALSE;-1.38;0.44;0;0
+"India";FALSE;0.04;0;0;0.075
+"Isle of Man";FALSE;-1.57;0;0;0.09
+"Italy";FALSE;-1.66;0.308;0;0
+"Japan";FALSE;-0.71;0.474;0;0
+"Marshall Islands";TRUE;-1.31;0.2;0;0
+"Netherlands";FALSE;-1.26;0.226;0;0
+"Norway";FALSE;-1.79;0.333;0;0
+"Panama";TRUE;-0.55;0.1;0;0
+"Philippines";FALSE;-0.32;0;0;0.025
+"Russian Federation";FALSE;-0.79;0.324;0;0
+"Saint Vincent and the Grenadines";TRUE;1.09;0.06;0;0
+"Singapore";FALSE;-1.46;0;0.17;0
+"Tanzania";FALSE;3.58;0;0.3;0
+"Thailand";FALSE;0;0;0;0.03
+"United Kingdom";FALSE;-1.62;0.283;0;0
